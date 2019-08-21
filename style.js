@@ -1,3 +1,3 @@
 function sample() {
-    document.getElementById("abcd").innerHTML = "Link got clicked";
+    document.getElementById("abcd").innerHTML = "Link got clickedd";
 }
